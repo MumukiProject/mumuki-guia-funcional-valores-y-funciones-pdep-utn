@@ -1,0 +1,1 @@
+El área de un rectángulo se calcula multiplicando el lado mayor por el lado menor.

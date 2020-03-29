@@ -1,0 +1,1 @@
+Pensá que el pedirle el siguiente al siguiente de un numero es lo mismo que sumar dos

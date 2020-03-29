@@ -1,0 +1,1 @@
+¿No sabés como llamar a las variables? ¡Inspirate en el último ejemplo!

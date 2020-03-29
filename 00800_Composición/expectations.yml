@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tripleDelAnterior
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tripleDelAnterior
+  inspection: HasComposition
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tripleDelAnterior
+  inspection: HasUsage:triple
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tripleDelAnterior
+  inspection: HasUsage:anterior
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Except:HasRedundantParameter

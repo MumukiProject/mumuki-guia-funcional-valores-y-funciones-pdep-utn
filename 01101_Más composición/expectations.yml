@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: masDos
+  inspection: HasComposition
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: masDos
+  inspection: HasUsage:siguiente

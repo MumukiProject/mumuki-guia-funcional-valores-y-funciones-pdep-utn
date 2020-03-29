@@ -1,0 +1,23 @@
+---
+name: Valores y Funciones
+locale: es
+type: learning
+beta: true
+language: haskell
+id_format: "%05d"
+order:
+- 1103
+- 100
+- 200
+- 300
+- 400
+- 500
+- 600
+- 650
+- 675
+- 700
+- 800
+- 1101
+- 1100
+- 1102
+private: false
