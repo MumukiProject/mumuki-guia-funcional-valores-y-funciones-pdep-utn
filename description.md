@@ -1,4 +1,4 @@
-¡Bienvenido! 
+¡Te damos la bienvenida! 
 
 El paradigma funcional es una forma de resolver problemas de programación bastante antigua: [sus orígenes](https://es.wikipedia.org/wiki/C%C3%A1lculo_lambda) se remontan al 1930, cuando ni siquiera existían las computadoras.
 
