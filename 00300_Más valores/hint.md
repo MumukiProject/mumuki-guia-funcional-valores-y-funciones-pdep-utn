@@ -1,1 +1,1 @@
-¿No sabés como llamar a las variables? ¡Inspirate en el último ejemplo!
+¿No sabés qué alias utilizar? ¡Inspirate en el último ejemplo!

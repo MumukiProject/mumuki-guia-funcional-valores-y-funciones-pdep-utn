@@ -2,7 +2,7 @@ Empecemos por lo simple: los números. En Haskell tenemos números como el `4`, 
 
 ¡Podemos tener números tan chicos o grandes como queramos!
 
-¿Y qué podemos hacer con un número? Por un lado, podemos ponerle una etiqueta, para indicar qué representa. Por ejemplo, si en un programa Haskell querés decir que la semana tiene 7 días, podés escribir:
+¿Y qué podemos hacer con un número? Por un lado, podemos ponerle una etiqueta o alias, para indicar qué representa. Por ejemplo, si en un programa Haskell querés decir que la semana tiene 7 días, podés escribir:
 
 ```haskell
 cantidadDeDiasPorSemana = 7
